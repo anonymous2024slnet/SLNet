@@ -2,13 +2,15 @@
 
 # Environment
 
+cuda 11.4
+
 python 3.6
 
 pytorch 1.7.1
 
 torchvision 0.8.2
 
-cuda 11.4
+simpleitk 2.1.1
 
 # Dataset
 
