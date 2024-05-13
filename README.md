@@ -12,7 +12,7 @@ cuda 11.4
 
 # Dataset
 
-[OASIS](https://sites.wustl.edu/oasisbrains/]=) dataset.
+[OASIS](https://sites.wustl.edu/oasisbrains/]) dataset.
 
 [IXI](https://brain-development.org/ixi-dataset/) dataset.
 
