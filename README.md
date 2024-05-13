@@ -24,4 +24,4 @@ cuda 11.4
 
 If you want to retrain from scratch, first you need to download the original dataset, then perform all the processing operations mentioned in the paper using [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/), and finally use 'python train_Morph.py'.
 
-If you want to directly test the results on OASIS, download the model and use 'python infer_Morph.py'.
+If you want to directly test the results on OASIS, download the model 'morph.pth.tar' from the master branch and use 'python infer_Morph.py'.
