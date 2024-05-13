@@ -1,6 +1,7 @@
 # SLNet
 
 # Environment
+
 python 3.6
 
 pytorch 1.7.1
@@ -11,10 +12,10 @@ cuda 11.4
 
 # Dataset
 
-[OASIS]([https://sites.wustl.edu/oasisbrains/]) dataset.
+[OASIS](https://sites.wustl.edu/oasisbrains/]=) dataset.
 
-[IXI]([https://brain-development.org/ixi-dataset/]) dataset.
+[IXI](https://brain-development.org/ixi-dataset/) dataset.
 
-[LPBA]([https://www.loni.usc.edu/research/atlas_downloads]) dataset.
+[LPBA](https://www.loni.usc.edu/research/atlas_downloads) dataset.
 
-[Mindboggle]([https://osf.io/nhtur/]) dataset.
+[Mindboggle](https://osf.io/nhtur/) dataset.
