@@ -11,11 +11,10 @@ cuda 11.4
 
 # Dataset
 
-Original [OASIS](http://www.baidu.com/) dataset.
-Preprocessed OASIS dataset.
-Original IXI dataset.
-Preprocessed IXI dataset.
-Original LPBA dataset.
-Preprocessed LPBA dataset.
-Original Mindboggle dataset.
-Preprocessed Mindboggle dataset.
+[OASIS]([https://sites.wustl.edu/oasisbrains/]) dataset.
+
+[IXI]([https://brain-development.org/ixi-dataset/]) dataset.
+
+[LPBA]([https://www.loni.usc.edu/research/atlas_downloads]) dataset.
+
+[Mindboggle]([https://osf.io/nhtur/]) dataset.
