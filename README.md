@@ -19,3 +19,9 @@ cuda 11.4
 [LPBA](https://www.loni.usc.edu/research/atlas_downloads) dataset.
 
 [Mindboggle](https://osf.io/nhtur/) dataset.
+
+# Training and Testing
+
+python train_Morph.py 
+
+python infer_Morph.py 
