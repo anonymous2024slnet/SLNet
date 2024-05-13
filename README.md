@@ -16,12 +16,12 @@ cuda 11.4
 
 [IXI](https://brain-development.org/ixi-dataset/) dataset.
 
-[LPBA](https://www.loni.usc.edu/research/atlas_downloads) dataset.
+[LPBA](https://resource.loni.usc.edu/resources/atlases-downloads/) dataset.
 
 [Mindboggle](https://osf.io/nhtur/) dataset.
 
 # Training and Testing
 
-python train_Morph.py 
+If you want to retrain from scratch, first you need to download the original dataset, then perform all the processing operations mentioned in the paper using [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/), and finally use 'python train_Morph.py'.
 
-python infer_Morph.py 
+If you want to directly test the results on OASIS, download the model and use 'python infer_Morph.py'.
